@@ -1,0 +1,22 @@
+@media (min-width: 576px) and  (max-width: 767px){
+  body{
+    background: #d3d3d3;
+  }
+  
+  #video{
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 375px) and  (max-width: 576px){
+  #video{
+    width: 50%;
+  }
+}
+
+
+#data{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
